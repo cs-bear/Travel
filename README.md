@@ -1,1 +1,1 @@
-# Travel
+> Some tips and tricks for the Travel project.
